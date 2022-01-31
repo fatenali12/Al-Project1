@@ -1,0 +1,25 @@
+{
+    "id": "fb9a9f6c-4589-4aa8-bc95-59e7de8d6233",
+    "name": "Mobile Brand Project",
+    "publisher": "Faten Ali",
+    "version": "1.0.0.0",
+    "brief": "An Assignment",
+    "description": "Mobile Brand Project",
+    "privacyStatement": "https://IBBinnovation.com",
+    "EULA": "https://IBBinnovation.com/EULA",
+    "help": "https://IBBinnovation.com/Help",
+    "url": "https://IBBinnovation.com",
+    "logo": "./Images/IBB.jpg",
+    "contextSensitiveHelpUrl": "https://IBBinnovation.com",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "17.0.0.0",
+    "application": "17.0.0.0",
+    "idRanges": [{
+        "from": 51101,
+        "to": 51200
+    }],
+
+    "runtime": "7.0",
+    "features": ["TranslationFile"]
+}

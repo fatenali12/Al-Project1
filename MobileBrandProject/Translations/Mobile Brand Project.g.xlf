@@ -1,0 +1,1379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Mobile Brand Project">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3973213387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Purchases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 4141588837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Confirmed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 919372080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Entity No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 3213375432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Mobile Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 3038868539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Vendor ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3973213387 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Confirmed Purchase Request - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2180759954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Brand ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 413296520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Brand Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2626717425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Last Modified Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 361281187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Of Mobiles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Number Of Mobiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 4072611299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Avatar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 2239210435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Customer ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3158531824 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Customer - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 413296520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Brand Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 3213375432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 1625188226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Brand ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 303288135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 2268144090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 3082536385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 1216130440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Purchases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 3038868539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Vendor ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104657069 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Purchases Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 1200619698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirme Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Confirme Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 3213375432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Mobile Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 1216130440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Mobile Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 3038868539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Vendor ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3451796335 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Purchase Line - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Field 2369664869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Field Created By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Field Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1726861261 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 631437315 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale History - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 631437315 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale History - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 631437315 - Field 3213375432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale History - Field Mobile Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 631437315 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale History - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer  Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 3213375432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Mobile Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 1216130440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Mobile Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 472558405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Process Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2329754895 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Sale Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 179365352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Address2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 4072611299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avatar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Avatar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 3038868539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Vendor ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4022829272 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Vendor - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3916340059 - Method 2864777531 - NamedType 520975151" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Existing Picture will be replaced .. Continue ?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Import Picture - Method ImportPicture - NamedType ReplaceConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 4141588837 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Confirmed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 919372080 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Entity No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3973213387 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Confirmed Purchase Request - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 647674702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Picture URL Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CusPicture URL Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 647674702 - Control 183441918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CusPicture URL Dialog - Control cusPicture URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 647674702 - Control 2239210435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CusPicture URL Dialog - Control Customer ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 647674702 - Control 1385644045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CusPicture URL Dialog - Control customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Method 3119204463 - NamedType 3934663084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are You Sure You Want To Delete The Picture!?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Method DeletePicture - NamedType DeleteConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Method 2003842020 - NamedType 3907298471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do You Want To Download The Picture ?!..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Method ExportPicture - NamedType ExportConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Method 376412736 - NamedType 1971751888" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Existing Picture will be replaced .. Continue ?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Method ImportCusPicture - NamedType ImportConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Control 4072611299 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Control Avatar - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 2477294019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Picture </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Delete - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 1227125004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action ImportFormURL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 1227125004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt From URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action ImportFormURL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 574329789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Take - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1058481458 - Action 574329789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Details - Action Take - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Method 2054490752 - NamedType 2362886401" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The File Was Not Saved. The Problem Was %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Method GetMobilesInEveryBrand - NamedType FileNotSavedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Control 2180759954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill In With Brand ID. Should Be Unique ..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Control Brand ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Control 413296520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill In With Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Control Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Control 2626717425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Control Last Modified Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Control 361281187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill In With Number Of Mobiles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Control Number Of Mobiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Action 913720396 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Query To XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Action DownLoadTOXMLFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Action 913720396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Query To XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Action DownLoadTOXMLFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Action 339844139 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Query On Number Of Mobiles In Every Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Action ShowQuery - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 5380397 - Action 339844139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Query</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand - Action ShowQuery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1520774929 - Control 2180759954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand Card - Control Brand ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520774929 - Control 413296520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand Card - Control Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520774929 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand Card - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520774929 - Control 2626717425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand Card - Control Last Modified Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520774929 - Control 361281187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Of Mobiles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Brand Card - Control Number Of Mobiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 303288135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 2268144090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 1216130440 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 413296520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 5380397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Brand - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2800353816 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Card - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2480916324 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer Card - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2480916324 - Control 2239210435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer Card - Control Customer ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2480916324 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer Card - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2480916324 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer Card - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2480916324 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 943224802 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer List - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 943224802 - Control 2239210435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer List - Control Customer ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 943224802 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer List - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 943224802 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer List - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 943224802 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Customer List - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 413296520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 303288135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 2268144090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1350483582 - Control 1216130440 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile List - Control Mobile Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Method 3119204463 - NamedType 3934663084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are You Sure You Want To Delete The Picture!?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Method DeletePicture - NamedType DeleteConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Method 2003842020 - NamedType 3907298471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do You Want To Download The Picture ?!..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Method ExportPicture - NamedType ExportConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Method 2864777531 - NamedType 520975151" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Existing Picture will be replaced .. Continue ?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Method ImportPicture - NamedType ReplaceConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Control 3082536385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Control Mobile Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 2477294019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Picture </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Delete - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 4017162772 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Import From URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 4017162772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt From URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Import From URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 574329789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Take - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264042552 - Action 574329789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Picture - Action Take - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Control 177589983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By ...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Control Phone No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 289912465 - Action 1384868979 - Method 1377591017 - NamedType 1082961708" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Confirmed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Card - Action Confirmed Requests - Method OnAction - NamedType ConfirmedMessage</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 1200619698 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirme Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Confirme Request - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 2139892940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Mobile Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451796335 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase Line - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3002362691 - NamedType 3329964877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Customer Purchase List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase List - NamedType WelcomeMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3002362691 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase List - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3002362691 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase List - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3002362691 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies The Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase List - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3002362691 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Purchase List - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3504415025 - Control 2369664869 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By ...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Card - Control Created By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3504415025 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Card - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3504415025 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Card - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3504415025 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Card - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3504415025 - Action 472558405 - Method 1377591017 - NamedType 4066465501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Done</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Card - Action Process Sales - Method OnAction - NamedType ProcessDone</note>
+        </trans-unit>
+        <trans-unit id="Page 631437315 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale History - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 631437315 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale History - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 631437315 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale History - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 3213375432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Mobile Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 2139892940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Mobile Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 472558405 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Process Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Process Sales - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2329754895 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale Line - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921897955 - Method 716454850 - NamedType 3329964877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Mobile Sales List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale List - Method OnOpenPage - NamedType WelcomeMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1921897955 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Custome Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale List - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921897955 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale List - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1921897955 - Control 854235057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Custome ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Sale List - Control Mobile Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 179365352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Address2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 116801996 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor Card - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 179365352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Address2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 1285973296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 3038868539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Vendor ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2739231690 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mobile Vendor List - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1594031809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture URL Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Picture URL Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1594031809 - Control 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Picture URL Dialog - Control Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1594031809 - Control 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Picture URL Dialog - Control Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1594031809 - Control 1567323993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Picture URL Dialog - Control Picture URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Method 3119204463 - NamedType 3934663084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are You Sure You Want To Delete The Picture!?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Method DeletePicture - NamedType DeleteConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Method 2003842020 - NamedType 3907298471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do You Want To Download The Picture ?!..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Method ExportPicture - NamedType ExportConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Method 2864777531 - NamedType 520975151" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Existing Picture will be replaced .. Continue ?..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Method ImportPicture - NamedType ReplaceConFirmMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Control 4072611299 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Control Avatar - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Control 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Control Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 2477294019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Picture </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Delete - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 4091717668 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action ImportFromURL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 4091717668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imoprt From URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action ImportFromURL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 574329789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture From URL..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Take - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3683011130 - Action 574329789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Details - Action Take - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288614754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Picture URL Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendPicture URL Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288614754 - Control 3038868539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendPicture URL Dialog - Control Vendor ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288614754 - Control 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendPicture URL Dialog - Control Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3288614754 - Control 1629369826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendPicture URL Dialog - Control VendPicture URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Sales Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 4090761336" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType CreateDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 512005945" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType CustomerNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 1447870700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType MobileAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 1315368501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType MobileNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 897682023" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType MobileNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 3047443249" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType MobileQuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4184383458 - NamedType 2123814044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Mobile Sales Report - NamedType MobileStatusCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 3047238717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Mobile_Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 56462102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Mobile_Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 2510996131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Mobile_Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 973644068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Mobile_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 1691737629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Mobile_Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 494154083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Brand_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 4188407949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Brand_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 706729971 - QueryColumn 1008793349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query MobileBrandQuery - QueryColumn Created_Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 3047238717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Mobile_Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 56462102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Mobile_Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 2510996131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Mobile_Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 973644068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Mobile_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 1691737629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Mobile_Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 494154083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Brand_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 4188407949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Brand_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2587495060 - QueryColumn 1008793349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query NumberOfMobilesInEveryBrand - QueryColumn Created_Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 2732028891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort CustomerExportXML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 690731556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort CustomerImportXML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3932270742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort IBBGenJournalImports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 23763258 - Action 1079549426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export Customer List To Xml File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListXmlExt - Action ExportToXml - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 23763258 - Action 1079549426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export To Xml</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListXmlExt - Action ExportToXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 23763258 - Action 1079549426 - Method 1377591017 - NamedType 2349153639" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 23763258">
+          <source>Do You Want To Export The File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListXmlExt - Action ExportToXml - Method OnAction - NamedType ConfirmExportMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 23763258 - Action 454986937 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Import Customer List To Xml File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListXmlExt - Action ImportToXml - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 23763258 - Action 454986937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Import To Xml</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListXmlExt - Action ImportToXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Method 918181927 - NamedType 2349153639" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2693370455">
+          <source>Do You Want To Export The File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Method IBBRunXMLPortImport - NamedType ConfirmExportMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3074073137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3520386576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import Excel &amp; CSV File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImport - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3520386576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import Excel &amp; CSV File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 3052067854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 5 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field AC Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 933105837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 7 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field IBB Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 612071200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 8 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field IBB Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 2024180094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 4 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field PC Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 88593895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 3 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field SCC Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 642703517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 6 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field SPC Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
